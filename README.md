@@ -110,15 +110,10 @@ If you use this pipeline or reference this work, please cite:
 
 > Lynch, C., & Rafique, H. Automated Biomechanical Analysis of Lacrosse Athletes Using Deep Learning Pose Estimation. Syracuse University, Sport Analytics.
 
-*(Update with full conference/journal citation once published.)*
 
 ## Acknowledgments
 
 Hassan Rafique, Assistant Professor of Sport Analytics at Syracuse University, is a co-author on the accompanying research paper.
-
-## License
-
-*(Add your chosen license — MIT, Apache 2.0, etc.)*
 
 ## Contact
 
